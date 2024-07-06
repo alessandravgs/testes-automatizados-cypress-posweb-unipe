@@ -15,8 +15,8 @@ Siga os passos abaixo para configurar e executar os testes:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-    cd nome-do-repositorio
+    git clone https://github.com/kleberbarros9/testes-automatizados-cypress-posweb-unipe.git
+    cd testes-automatizados-cypress-posweb-unipe
     ```
 
 2. Inicialize um novo projeto npm:
