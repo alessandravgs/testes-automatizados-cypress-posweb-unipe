@@ -1,0 +1,13 @@
+
+# Node.js
+node_modules/
+
+# Cypress folders
+cypress/
+
+# Dependency directories
+package.json
+package-lock.json
+
+# Miscellaneous
+.DS_Store
