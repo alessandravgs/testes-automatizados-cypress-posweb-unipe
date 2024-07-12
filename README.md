@@ -105,6 +105,11 @@ Na interface que se abrirá, clique no arquivo de teste que deseja executar.
    - Tentativa de login com senha errada e verificação da mensagem de erro.
    - Login e subsequente exclusão da conta do usuário.
 
+5. **Testes de Finalização de Compra**:
+    - Finalizar a compra de um produto com sucesso
+    - Finalizar a compra de um produto com sucesso e baixar a fatura
+    - Tentar finalizar uma compra sem os dados de pagamento
+
 ### O que não será executado durante os testes:
 - Testes de performance e carga para as APIs e a aplicação web.
 - Testes de usabilidade e experiência do usuário.
